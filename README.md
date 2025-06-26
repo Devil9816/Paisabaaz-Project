@@ -15,17 +15,8 @@ Paisabazaar is a financial services company that assists customers in finding an
 
 ---
 
-## 📁 Repository Structure
-
-Paisabaaz-Project/
-│
-├── myCode.ipynb # Main Jupyter notebook with full ML pipeline
-├── original_dataset.csv # Original raw dataset
-├── cleaned_dataset.parquet # Cleaned data after preprocessing
-├── catboost_info/ # CatBoost training logs and metrics
-├── problem_statement.pptx # Presentation describing the project scope
-├── sample_submission.ipynb # Sample results/output
-└── README.md # Project documentation
+📁 Repository Structure 
+<pre> Paisabaaz-Project/ ├── myCode.ipynb # Main Jupyter notebook with full ML pipeline ├── original_dataset.csv # Original raw dataset ├── cleaned_dataset.parquet # Cleaned data after preprocessing ├── catboost_info/ # CatBoost training logs and metrics │ ├── learn_error.tsv │ ├── time_left.tsv │ └── catboost_training.json ├── problem_statement.pptx # Project scope and business context ├── sample_submission.ipynb # Sample predictions/output └── README.md # Project documentation </pre>
 
 
 
